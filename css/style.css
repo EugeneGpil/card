@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card{
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    /*display: block;*/
+    max-width: 1043px;
+    /*width: 1043;*/
+    padding-left: 16px;
+    padding-right: 32px;
+    padding-top: 25px;
+    /*align-self: center;*/
+    margin: auto;
+    margin-top: 20px;
+    padding-bottom: 57px;
+}
+
+.editorsPack{
+    color: rgba(255, 5, 94, 0.5);
+    font-size: 14px;
+    margin-bottom: 11px;
+}
+
+h1{
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+
+hr{
+    width: 218px;
+    border: 1px solid #FF274C;
+    margin-bottom: 19px;
+}
+
+.paragraph{
+    font-size: 18px;
+    /*margin-bottom: 64px;*/
+}
+
+.read{
+    /*margin-top: 83px;*/
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: normal;
+    color: #9D9C9C;
+    max-width: 50%;
+    /*margin-right: 0px;*/
+    padding-top: 83px;
+    /*float: left;*/
+    display: inline-block;
+}
+
+.buttom{
+    background: #FF055E;
+    border-radius: 6px;    
+    color: #FFFFFF;
+    font-size: 18px;
+    /*font-style: normal;*/
+    text-decoration: none;
+    padding: 20px 65px;
+    /*display: inline-block;*/
+    /*float: right;*/
+}
+
+.buttomDiv{
+    /*display: inline;*/
+    float: right;
+    padding-top: 84px;
+}
+
+/*.lastPartOfCard{
+    text-align: justify;
+}*/
