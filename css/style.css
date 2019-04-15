@@ -34,12 +34,14 @@ h1{
     font-size: 36px;
     line-height: normal;
     margin-bottom: 16px;
+    max-width: 60%;    
 }
 
 hr{
     width: 218px;
     border: 1px solid #FF274C;
     margin-bottom: 19px;
+    /*max-width: 60%;*/
 }
 
 .paragraph{
