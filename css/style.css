@@ -10,15 +10,22 @@
     box-sizing: border-box;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     /*display: block;*/
-    max-width: 1043px;
+    
     /*width: 1043;*/
     padding-left: 16px;
     padding-right: 32px;
     padding-top: 25px;
     /*align-self: center;*/
-    margin: auto;
+    /*margin: auto;*/
     margin-top: 20px;
     padding-bottom: 57px;
+}
+
+.mainContainer{
+    max-width: 1043px;
+    padding-bottom: 100px;
+    padding-top: 20px;
+    margin: auto;
 }
 
 .editorsPack{
@@ -27,7 +34,7 @@
     margin-bottom: 11px;
 }
 
-h1{
+h1, h2{
     font-family: Roboto Slab;
     font-style: normal;
     font-weight: normal;
@@ -64,7 +71,7 @@ hr{
     display: inline-block;
 }
 
-.buttom{
+.buttom a{
     background: #FF055E;
     border-radius: 6px;    
     color: #FFFFFF;
@@ -76,7 +83,7 @@ hr{
     /*float: right;*/
 }
 
-.buttomDiv{
+.buttom{
     /*display: inline;*/
     float: right;
     padding-top: 84px;
