@@ -16,11 +16,10 @@ p{
     padding-top: 25px;
 }
 
-a {
-    text-decoration: none;
+.card__link {
     color: #FF274C;
 }
 
-a:visited{
+.card__link:visited{
     color: rgb(255, 166, 166);
 }
