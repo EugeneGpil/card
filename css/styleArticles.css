@@ -6,8 +6,21 @@ p{
 .card{
     padding-bottom: 100px;
     margin-bottom: 150px;
+    margin: auto;
+    max-width: 1043px;
+    margin-bottom: 100px;
+    margin-top: 20px;
 }
 
 .buttom{
     padding-top: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #FF274C;
+}
+
+a:visited{
+    color: rgb(255, 166, 166);
 }
