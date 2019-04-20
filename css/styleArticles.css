@@ -1,20 +1,21 @@
 p{
-    font-size: 18px;
+    font-size: 19px;
     padding-bottom: 15px;
+    line-height: 1.5em;
 }
 
-.card{
+/*.card{
     padding-bottom: 100px;
     margin-bottom: 150px;
     margin: auto;
-    max-width: 1043px;
+    max-width: 900px;
     margin-bottom: 100px;
     margin-top: 20px;
-}
+}*/
 
-.buttom{
+/*.buttom{
     padding-top: 25px;
-}
+}*/
 
 .card__link {
     color: #FF274C;
@@ -22,4 +23,12 @@ p{
 
 .card__link:visited{
     color: rgb(255, 166, 166);
+}
+
+.hero__image_god-is-an-astronaut{
+    background-image: url("../img/god-is-an-astronaut.jpg");
+}
+
+.hero__image_primitive-technology{
+    background-image: url("../img/primitive-technology.jpg");
 }
