@@ -57,16 +57,16 @@ hr{
     /*max-width: 60%;*/
 }
 
-.paragraph{
+.card__paragraph{
     font-size: 19px;
     line-height: 1.5em;
     /*margin-bottom: 64px;*/
-    /*padding-bottom: 15px;*/
+    padding-bottom: 15px;
 }
 
 .read{
     /*margin-top: 83px;*/
-    font-family: Roboto;
+    /*font-family: Roboto;*/
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
